@@ -1,5 +1,5 @@
 # matplotlib-challenge
-##GA Tech Data Science and Analytics Boot Camp Module 5
+## GA Tech Data Science and Analytics Boot Camp Module 5
 ### Description: Pymaceuticals
 This assignment utilizes Pandas, Matplotlib, scipy, numpy, and Jupyter Notebook to prepare a statistical analysis on a study of tumor drug regimens given to mice over the course of 45 days.  
 
